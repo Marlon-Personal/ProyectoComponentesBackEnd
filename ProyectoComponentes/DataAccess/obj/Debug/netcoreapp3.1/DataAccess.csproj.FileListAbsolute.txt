@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\bin\Debug\netcoreapp3.1\Entities-POJO.deps.json
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\bin\Debug\netcoreapp3.1\Entities-POJO.dll
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\obj\Debug\netcoreapp3.1\Entities-POJO.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\obj\Debug\netcoreapp3.1\Entities-POJO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\obj\Debug\netcoreapp3.1\Entities-POJO.AssemblyInfo.cs
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\bin\Debug\netcoreapp3.1\Entities-POJO.pdb
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\obj\Debug\netcoreapp3.1\Entities-POJO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\obj\Debug\netcoreapp3.1\Entities-POJO.dll
+C:\Users\user\Desktop\Componentes\ProyectoFinal\ProyectoFinalSLN\ProyectoComponentes\Entities-POJO\obj\Debug\netcoreapp3.1\Entities-POJO.pdb

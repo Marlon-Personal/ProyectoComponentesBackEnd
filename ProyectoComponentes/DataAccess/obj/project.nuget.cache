@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Txj0jDjJhnLyuD+n1STCcROLrG8tby+Akx6CslkPiwPk04F+clWSfZSV6VA7+H/GViqCFWwFx0XBbJgIbltbAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Componentes\\ProyectoFinal\\ProyectoFinalSLN\\ProyectoComponentes\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.core\\3.5.1.34\\awssdk.core.3.5.1.34.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.2\\awssdk.dynamodbv2.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

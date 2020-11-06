@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3MJghVSC+QFxBHw3/XipOZJCXnxYCnyR0P5p24hyxGzzN61rZpqW+FcADeLR4lW0VcFqlqmSjkOaq/16munbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Componentes\\ProyectoFinal\\ProyectoFinalSLN\\ProyectoComponentes\\Entities-POJO\\Entities-POJO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.core\\3.5.1.34\\awssdk.core.3.5.1.34.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.2\\awssdk.dynamodbv2.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
